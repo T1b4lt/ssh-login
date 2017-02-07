@@ -4,7 +4,7 @@
 #                                                                  #
 #                                                                  #
 #   A simple ssh_login                                             #
-#   In line 22 user@ip-adress maybe changed (ex: root@255.255.0.0) #
+#   In line 23 user@ip-adress maybe changed (ex: root@255.255.0.0) #
 #   In line 24 password maybe changed with yours                   #
 #   You maybe have installed sshpass                               #
 #   Installing tutorial: sudo apt-get install sshpass              #
